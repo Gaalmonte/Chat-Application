@@ -1,3 +1,5 @@
+![React & firebase Chat](https://i.imgur.com/bSCCmyz.png)
+
 # React & Firebase Realtime Chat Room
 In this project I will be practicing and exercising my React skills while also learning Firebase. 
 
