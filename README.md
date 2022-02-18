@@ -8,6 +8,6 @@ In this project I will be practicing and exercising my React skills while also l
 * Learn to work with Realtime data streams
 
 ## How to run
-* 1. Clone Repository
-* 2. Run npm install in terminal
-* 3. Run npm start
+1. Clone Repository
+2. Run npm install in terminal
+3. Run npm start
