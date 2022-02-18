@@ -67,7 +67,7 @@ function ChatRoom(){
       photoURL
     })
     setFormValue('');
-    dummy.current.scrollIntoView({behavuir:'smooth'});
+    dummy.current.scrollIntoView({behavior:'smooth'});
   }
   return(
     <>
